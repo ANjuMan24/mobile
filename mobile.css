@@ -1,0 +1,37 @@
+*{margin:0 ;padding:0}
+
+#div1{height:450px ;
+width:250px ;
+background-color:rgb(232, 232, 251) ;
+box-shadow:5px 5px 5px  ;
+border: 5px solid black;
+border-radius:10px;
+ margin:50px 100px;
+
+}
+header{margin: ;
+padding: ;
+background-color: blueviolet;
+height:10% ;
+width:90% ;
+}
+
+#nt{height: 300px;
+width: 500px;
+background-color: darkgreen;
+
+margin: 20px;}
+.cr{   height: 200px;
+width: 200px;
+background-color: red;
+margin:auto;
+border-radius: 50%;
+position: relative;
+top:50px
+}
+.st{height: 600px;
+width: 20px;
+background-color:saddlebrown;
+position: relative;
+bottom: 320px; ;
+}
